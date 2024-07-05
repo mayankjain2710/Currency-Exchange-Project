@@ -1,4 +1,4 @@
-Currency Exchange
+Currency Exchange Project
 Currency Exchange is a dynamic and user-friendly currency converter application built using ReactJS, Tailwind CSS, and the Vite bundler. It provides real-time exchange rates and seamless conversion between various global currencies, making financial transactions accurate and efficient for users worldwide.
 
 Features
